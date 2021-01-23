@@ -1,0 +1,43 @@
+﻿  game_object.cpp
+  main_d3d11.cpp
+m:\cmp 208\game_states\build\vs2017\level.h(38): warning C4305: 'argument': truncation from 'double' to 'const float'
+  primitive_builder.cpp
+  scene_app.cpp
+m:\cmp 208\game_states\build\vs2017\level.h(38): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Congrats.cpp
+  Controls.cpp
+  Enemy.cpp
+  Ground.cpp
+m:\cmp 208\game_states\build\vs2017\ground.cpp(53): warning C4150: deletion of pointer to incomplete type 'gef::Mesh'; no destructor called
+  m:\cmp 208\gef_abertay\graphics\mesh_instance.h(8): note: see declaration of 'gef::Mesh'
+m:\cmp 208\game_states\build\vs2017\ground.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+m:\cmp 208\game_states\build\vs2017\ground.cpp(99): warning C4150: deletion of pointer to incomplete type 'gef::Mesh'; no destructor called
+  m:\cmp 208\gef_abertay\graphics\mesh_instance.h(8): note: see declaration of 'gef::Mesh'
+m:\cmp 208\game_states\build\vs2017\ground.cpp(118): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+m:\cmp 208\game_states\build\vs2017\ground.cpp(146): warning C4150: deletion of pointer to incomplete type 'gef::Mesh'; no destructor called
+  m:\cmp 208\gef_abertay\graphics\mesh_instance.h(8): note: see declaration of 'gef::Mesh'
+m:\cmp 208\game_states\build\vs2017\ground.cpp(156): warning C4305: 'argument': truncation from 'double' to 'const float'
+m:\cmp 208\game_states\build\vs2017\ground.cpp(169): warning C4305: '=': truncation from 'double' to 'float32'
+m:\cmp 208\game_states\build\vs2017\ground.cpp(185): warning C4150: deletion of pointer to incomplete type 'gef::Mesh'; no destructor called
+  m:\cmp 208\gef_abertay\graphics\mesh_instance.h(8): note: see declaration of 'gef::Mesh'
+  HighScore.cpp
+  Level.cpp
+m:\cmp 208\game_states\build\vs2017\level.h(38): warning C4305: 'argument': truncation from 'double' to 'const float'
+m:\cmp 208\game_states\build\vs2017\level.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+m:\cmp 208\game_states\build\vs2017\level.cpp(71): error C2398: Element '1': conversion from 'int' to 'float32' requires a narrowing conversion
+m:\cmp 208\game_states\build\vs2017\level.cpp(71): error C2398: Element '2': conversion from 'int' to 'float32' requires a narrowing conversion
+m:\cmp 208\game_states\build\vs2017\level.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+m:\cmp 208\game_states\build\vs2017\level.cpp(90): error C2398: Element '2': conversion from 'double' to 'float32' requires a narrowing conversion
+m:\cmp 208\game_states\build\vs2017\level.cpp(90): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+m:\cmp 208\game_states\build\vs2017\level.cpp(234): error C2398: Element '2': conversion from 'double' to 'float32' requires a narrowing conversion
+m:\cmp 208\game_states\build\vs2017\level.cpp(234): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+m:\cmp 208\game_states\build\vs2017\level.cpp(238): error C2398: Element '2': conversion from 'double' to 'float32' requires a narrowing conversion
+m:\cmp 208\game_states\build\vs2017\level.cpp(238): warning C4244: 'argument': conversion from 'double' to 'float32', possible loss of data
+  Menu.cpp
+  player.cpp
+m:\cmp 208\game_states\build\vs2017\player.cpp(113): warning C4150: deletion of pointer to incomplete type 'gef::Mesh'; no destructor called
+  m:\cmp 208\gef_abertay\graphics\mesh_instance.h(8): note: see declaration of 'gef::Mesh'
+  StateManager.cpp
+m:\cmp 208\game_states\build\vs2017\level.h(38): warning C4305: 'argument': truncation from 'double' to 'const float'
+  StatesBase.cpp
+  Generating Code...
